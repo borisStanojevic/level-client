@@ -1,0 +1,23 @@
+{
+  "name": "level-client",
+  "version": "1.0.0",
+  "description": "A simple TCP client for high performance key-value database LevelDB with JSON based messaging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisStanojevic/level-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisStanojevic/level-client/issues"
+  },
+  "homepage": "https://github.com/borisStanojevic/level-client#readme",
+  "dependencies": {
+    "json-socket": "^0.3.0",
+    "nanoid": "^4.0.0"
+  }
+}
